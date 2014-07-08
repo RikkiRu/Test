@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace testProject
-{
+{//f
     public partial class MainWindow : Window
     {
         public MainWindow()
